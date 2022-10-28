@@ -1,0 +1,52 @@
+﻿
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Contacts";
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="col-lg-2">
+            <input type="button"
+                   class="btn btn-secondary"
+                   value="Add New Contact"
+                   onclick="location.href='@Url.Action("AddNewContact", "Contacts")'" />
+        </div>
+        <div class="col-lg-6">
+            <form asp-action="SearchInContactList" method="get" >
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label class="control-label"></label>
+                    <input class="form-control" placeholder="search in contacts" type="text" name="searchText" id="searchText"/>
+                    <span class="text-danger"></span>
+                </div>
+                <div class="form-group mt-2">
+                    <input type="submit" value="Search" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+    
+</div>
+<hr />
+
+@foreach (var item in Model)
+{
+    <div class="row">
+        <h5>@item.Name</h5>
+        <h6>@item.Nickname</h6>
+        <h6>@item.PhoneNumber</h6>
+        <h6>@item.Email</h6>
+
+    </div>
+    <div class="mt-2">
+        <form>
+            <button class="btn btn-success" asp-action="EditContact" asp-route-id="@item.Id">Details</button>
+            <button class="btn btn-danger" asp-action="DeleteContact" asp-route-id="@item.Id">Delete</button>
+        </form>
+    </div>
+    <hr />
+}
+
