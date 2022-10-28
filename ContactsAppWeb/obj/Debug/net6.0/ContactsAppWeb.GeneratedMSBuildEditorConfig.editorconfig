@@ -8,49 +8,49 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ContactsAppWeb
 build_property.RootNamespace = ContactsAppWeb
-build_property.ProjectDir = /Users/uttamkumar/Projects/ContactsApp/ContactsAppWeb/
+build_property.ProjectDir = /Users/uttamkumar/Documents/GitHub/contactsApp/ContactsAppWeb/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/uttamkumar/Projects/ContactsApp/ContactsAppWeb
+build_property.MSBuildProjectDirectory = /Users/uttamkumar/Documents/GitHub/contactsApp/ContactsAppWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/uttamkumar/Projects/ContactsApp/ContactsAppWeb/Views/Contacts/AddNewContact.cshtml]
+[/Users/uttamkumar/Documents/GitHub/contactsApp/ContactsAppWeb/Views/Contacts/AddNewContact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFjdHMvQWRkTmV3Q29udGFjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/uttamkumar/Projects/ContactsApp/ContactsAppWeb/Views/Contacts/EditContact.cshtml]
+[/Users/uttamkumar/Documents/GitHub/contactsApp/ContactsAppWeb/Views/Contacts/EditContact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFjdHMvRWRpdENvbnRhY3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/uttamkumar/Projects/ContactsApp/ContactsAppWeb/Views/Contacts/Index.cshtml]
+[/Users/uttamkumar/Documents/GitHub/contactsApp/ContactsAppWeb/Views/Contacts/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFjdHMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/uttamkumar/Projects/ContactsApp/ContactsAppWeb/Views/Home/Index.cshtml]
+[/Users/uttamkumar/Documents/GitHub/contactsApp/ContactsAppWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/uttamkumar/Projects/ContactsApp/ContactsAppWeb/Views/Home/Privacy.cshtml]
+[/Users/uttamkumar/Documents/GitHub/contactsApp/ContactsAppWeb/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/uttamkumar/Projects/ContactsApp/ContactsAppWeb/Views/Shared/Error.cshtml]
+[/Users/uttamkumar/Documents/GitHub/contactsApp/ContactsAppWeb/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/uttamkumar/Projects/ContactsApp/ContactsAppWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/uttamkumar/Documents/GitHub/contactsApp/ContactsAppWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/uttamkumar/Projects/ContactsApp/ContactsAppWeb/Views/_ViewImports.cshtml]
+[/Users/uttamkumar/Documents/GitHub/contactsApp/ContactsAppWeb/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/uttamkumar/Projects/ContactsApp/ContactsAppWeb/Views/_ViewStart.cshtml]
+[/Users/uttamkumar/Documents/GitHub/contactsApp/ContactsAppWeb/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/uttamkumar/Projects/ContactsApp/ContactsAppWeb/Views/Shared/_Layout.cshtml]
+[/Users/uttamkumar/Documents/GitHub/contactsApp/ContactsAppWeb/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-j14r0xh2jb
